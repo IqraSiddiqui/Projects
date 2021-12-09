@@ -1,0 +1,37 @@
+who are you
+good morning
+open chrome
+close chrome
+open microsoft edge
+close microsoft edge
+open word
+close word
+open excel
+close excel
+open power point
+close power point
+open paint
+close paint
+open command prompt
+close command prompt
+open control panel
+close control panel
+open calculator
+close calculator
+open player
+close player
+open notepad
+close notepad
+open lms
+open pscs
+open outlook
+wake up
+sleep
+open file manager
+close file manager
+open youtube
+open google
+start chatting
+0
+1
+2
